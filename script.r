@@ -3,3 +3,6 @@
 
 ## Character
 typeof("a")
+
+2 + 2 
+14 - 12
