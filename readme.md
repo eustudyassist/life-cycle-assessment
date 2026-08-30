@@ -16,3 +16,5 @@ We will be tracking the following stage:
 - Transportation
 - Consumption
 - Waste
+
+This is by Debbie, Stella, James, and Beauty
