@@ -33,4 +33,23 @@ date: 2026-08-30
 - m4a
 - flac
 
-## Data
+## Data storage
+
+- Flat files
+  + .csv (comma separated values)
+  + txt - separated by space
+  + tsv - tab separated values
+
+- Spreadsheet
+  + excel
+    + .xls
+    + .xlsx
+  + ods
+
+- Databases
+  + postgresql
+  
+- Nested
+  + json
+
+
