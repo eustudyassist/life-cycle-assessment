@@ -1,0 +1,7 @@
+### Initial clean-up
+- convert character columns to factor (done)
+- convert year column to integer. (done)
+- handle sex missing data (done)
+- handle measured numeric var missing data (done)
+
+- Univariate analysis
